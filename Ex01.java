@@ -6,7 +6,7 @@ public class Ex01 {
 
         System.out.println("Danilo Duarte Bezerra");
         System.out.println("Kelly + Heloísa");
-        
+
     }
 }
 
