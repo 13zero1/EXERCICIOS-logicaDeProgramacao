@@ -1,6 +1,6 @@
 package Moderna.Modulo01.aula1;
 
-public class exercicio2 {
+public class ex02_operacoesAritmeticas {
     
     /*Ex02.
     Escreva as 4 operações aritméticas dos números 45 e 5. Crie as operações dentro de variáveis.
