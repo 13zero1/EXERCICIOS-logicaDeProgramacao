@@ -1,6 +1,6 @@
 package Moderna.Modulo01.aula1;
 
-public class exercicio1 {
+public class exercicio01_mediaNotas {
 
         public static void main(String[] args){
 
