@@ -4,10 +4,11 @@ public class ex01_mediaNotas {
         
         /*Ex01.
         Crie 4 variáveis do tipo double com valores (8.8 - 3.5 - 7.3 - 9.0). Calcule a média das notas e imprima no console o resultado.*/
-
+        
+        //o programa começa aqui...
         public static void main(String[] args){
             
-            //variaveis
+            //declarando as variaveis...
             double nota1 = (8.8);
             double nota2 = (7.5);
             double nota3 = (1.3);
