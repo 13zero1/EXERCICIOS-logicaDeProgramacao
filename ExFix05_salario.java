@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex05_salario {
+public class ExFix05_salario {
     
     /*ex05.
     Crie um programa com variáveis para nome do vendedor, salário fixo, valor do total de vendas efetuadas no mês. 
@@ -24,4 +22,5 @@ public class ex05_salario {
         System.out.println("Salario do mes: r$" + (salarioFixo +comissao));
 
     }
+
 }
