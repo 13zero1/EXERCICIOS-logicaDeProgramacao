@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex7_dolarReal {
+public class ExFix7_dolarReal {
     
     /*Ex07.
     Crie um programa que converta dólar para real. Considere a cotação a 5.61 e o valor do dólar como 300.*/
