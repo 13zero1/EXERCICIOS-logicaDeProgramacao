@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex04_sequencia {
+public class ExFix04_sequencia {
     
     /*Ex04.
     Crie um programa que siga os seguintes passos:
