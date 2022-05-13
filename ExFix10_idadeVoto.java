@@ -1,8 +1,6 @@
-package Moderna.Modulo01.aula1;
-
 import java.util.Scanner;
 
-public class ex10_idadeVoto {
+public class ExFix10_idadeVoto {
     
     /*Ex10.
     Escreva um programa utilizando operador ternário que imprima se o voto é proibido ou permitido, utilizando como regra:
