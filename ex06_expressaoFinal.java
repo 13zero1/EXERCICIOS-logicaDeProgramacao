@@ -1,9 +1,8 @@
-package Moderna.Modulo01.aula1;
+public class ex06_expressaoFinal {
 
-public class ex06 {
-
-    /*Qual resultado da expressão:
-    ((123*344) + 2344) >= (8799) != false ? “Moderna tecnologia” : “Finalmente..”*/
+    /*Ex06_
+    Qual resultado da expressão:
+        ( (123*344) + 2344) >= (8799) != false ? “Moderna tecnologia” : “Finalmente..” */
 
     public static void main(String[] args) {
 
@@ -13,6 +12,9 @@ public class ex06 {
             System.out.println("Moderna tecnologia");
         } else {
             System.out.println("Finalmente...");
+    
         }
+
     }
+
 }
