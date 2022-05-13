@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex08_valorDepositado {
+public class ExFix08_valorDepositado {
     
     /*Ex08.
     Escreva um código que receba na variável um valor depositado (500) e exiba o rendimento após 1 mês, 
