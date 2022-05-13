@@ -1,4 +1,4 @@
-public class ExFix7_dolarReal {
+public class ExFix07_dolarReal {
     
     /*Ex07.
     Crie um programa que converta dólar para real. Considere a cotação a 5.61 e o valor do dólar como 300.*/
