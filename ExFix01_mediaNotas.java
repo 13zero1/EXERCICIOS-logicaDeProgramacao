@@ -1,8 +1,6 @@
-package Moderna.Modulo01.aula1;
-
-public class ex01_mediaNotas {
+public class ExFix01_mediaNotas {
         
-        /*Ex01.
+        /*ExFix01.
         Crie 4 variáveis do tipo double com valores (8.8 - 3.5 - 7.3 - 9.0). Calcule a média das notas e imprima no console o resultado.*/
 
         //o programa começa aqui...
