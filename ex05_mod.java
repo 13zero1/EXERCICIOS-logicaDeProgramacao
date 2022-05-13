@@ -1,4 +1,4 @@
-public class ex05 {
+public class ex05_mod {
 
     /*Ex05_
     Crie um programa com duas variáveis do tipo long com os valores 15 e 10, imprima no console o resultado do MOD das duas variáveis.*/
