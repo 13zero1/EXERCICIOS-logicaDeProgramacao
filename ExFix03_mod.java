@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex03_mod {
+public class ExFix03_mod {
     
     /*Ex03.
     Crie duas variáveis do tipo long e com os valores 5 e 2 e imprima no console o MOD deles.*/
