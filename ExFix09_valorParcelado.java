@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex09_valorParcelado {
+public class ExFix09_valorParcelado {
     
     /*Ex09.
     O Carrefour está vendendo seus produtos parcelados em até 6x no cartão. 
