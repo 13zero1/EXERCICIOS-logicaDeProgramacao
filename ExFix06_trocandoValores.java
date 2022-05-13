@@ -1,6 +1,4 @@
-package Moderna.Modulo01.aula1;
-
-public class ex06_trocandoValores {
+public class ExFix06_trocandoValores {
     
     /*Ex06.
     Desenvolva um programa que tenha duas variáveis do tipo String. 
