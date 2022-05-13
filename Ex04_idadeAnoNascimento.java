@@ -1,9 +1,7 @@
-package Moderna.Modulo01.aula1;
+public class Ex04_idadeAnoNascimento {
 
-public class Ex04 {
-
-    /*Crie um programa que tem uma variável com o valor do ano atual e outra com o ano de seu
-    nascimento e imprima a sua idade */
+    /*ex04_
+    Crie um programa que tem uma variável com o valor do ano atual e outra com o ano de seu nascimento e imprima a sua idade.*/
 
     public static void main(String[] args) {
 
