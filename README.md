@@ -1,3 +1,3 @@
 # EXERCICIOS-logicaDeProgramacao
 
-## estudando lógica de programação em Java
+Estudando lógica de programação em Java
